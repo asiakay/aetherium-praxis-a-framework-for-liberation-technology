@@ -1,6 +1,6 @@
 # Aetherium Praxis: A Framework for Liberation Technology
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/asiakay/aetherium-praxis-a-framework-for-liberation-technology)
 
 Aetherium Praxis is a visually stunning and deeply interactive web application designed to showcase a framework for 'liberation technology'. The application presents four core 'value seeds': Reciprocal Economies, Liberation Logic, Sacred Systems, and Humanized Interfaces. The main dashboard provides an elegant overview of these seeds, inviting exploration. Clicking on a seed reveals a detailed view with its core principles, practical alignments, and ethical protocols, all presented with exceptional clarity and visual hierarchy.
 
@@ -89,7 +89,7 @@ This project is designed for easy deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/asiakay/aetherium-praxis-a-framework-for-liberation-technology)
 
 ## AI Assistant Notice
 
